@@ -2,9 +2,6 @@
 
 An AI-powered web app built with **Python 3.11, Streamlit, and Google Gemini AI** that generates **unique restaurant names, catchy taglines, and full menus** based on a selected **country** and **restaurant style**.  
 
-![App Screenshot](https://images.unsplash.com/photo-1498654200943-1088dd4438ae?q=80&w=2070&auto=format&fit=crop)  
-*(Sample background image used in the app)*
-
 ---
 
 ## 🚀 Features
